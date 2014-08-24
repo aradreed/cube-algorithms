@@ -1,0 +1,4 @@
+Future updates: 
+	Add view pages for 2x2 up to 5x5
+	Possible view of all case on one page with case #, no alg
+	Color-coding for the similar sections of algs

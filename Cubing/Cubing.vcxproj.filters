@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll01print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll02print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll03print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll04print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll05print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll07print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll08print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll09print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll10print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll11print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll12print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll13print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll14print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll15print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll16print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll17print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll18print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll19print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll20print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll21print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll22print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll23print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll24print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll25print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll26print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll27print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll28print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll29print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll30print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll31print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll32print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll33print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll34print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll35print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll36print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll37print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll38print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll39print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll40print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll41print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll42print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll43print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll44print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll45print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll46print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll47print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll48print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll49print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll50print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll51print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll52print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll53print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll54print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll55print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll56print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="oll\oll57print.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="pll\pll01.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll02.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll03.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll04.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll05.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll06.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll07.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll08.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll09.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll10.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll11.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll12.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll13.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll14.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll15.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll16.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll17.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll18.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll19.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll20.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="pll\pll21.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Cubing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="help.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ortega.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ortega.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="help.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ortega.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="oll\oll06print.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4F4A69C5-4588-48E1-8B46-1B0137265B6E}</ProjectGuid>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <Keyword>ManagedCProj</Keyword>
+    <RootNamespace>Cubing</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CLRSupport>Pure</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <CLRSupport>Pure</CLRSupport>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <GenerateManifest>false</GenerateManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>
+      </AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>
+      </AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.ico" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="oll\oll01print.gif" />
+    <None Include="oll\oll02print.gif" />
+    <None Include="oll\oll03print.gif" />
+    <None Include="oll\oll04print.gif" />
+    <None Include="oll\oll05print.gif" />
+    <None Include="oll\oll07print.gif" />
+    <None Include="oll\oll08print.gif" />
+    <None Include="oll\oll09print.gif" />
+    <None Include="oll\oll10print.gif" />
+    <None Include="oll\oll11print.gif" />
+    <None Include="oll\oll12print.gif" />
+    <None Include="oll\oll13print.gif" />
+    <None Include="oll\oll14print.gif" />
+    <None Include="oll\oll15print.gif" />
+    <None Include="oll\oll16print.gif" />
+    <None Include="oll\oll17print.gif" />
+    <None Include="oll\oll18print.gif" />
+    <None Include="oll\oll19print.gif" />
+    <None Include="oll\oll20print.gif" />
+    <None Include="oll\oll21print.gif" />
+    <None Include="oll\oll22print.gif" />
+    <None Include="oll\oll23print.gif" />
+    <None Include="oll\oll24print.gif" />
+    <None Include="oll\oll25print.gif" />
+    <None Include="oll\oll26print.gif" />
+    <None Include="oll\oll27print.gif" />
+    <None Include="oll\oll28print.gif" />
+    <None Include="oll\oll29print.gif" />
+    <None Include="oll\oll30print.gif" />
+    <None Include="oll\oll31print.gif" />
+    <None Include="oll\oll32print.gif" />
+    <None Include="oll\oll33print.gif" />
+    <None Include="oll\oll34print.gif" />
+    <None Include="oll\oll35print.gif" />
+    <None Include="oll\oll36print.gif" />
+    <None Include="oll\oll37print.gif" />
+    <None Include="oll\oll38print.gif" />
+    <None Include="oll\oll39print.gif" />
+    <None Include="oll\oll40print.gif" />
+    <None Include="oll\oll41print.gif" />
+    <None Include="oll\oll42print.gif" />
+    <None Include="oll\oll43print.gif" />
+    <None Include="oll\oll44print.gif" />
+    <None Include="oll\oll45print.gif" />
+    <None Include="oll\oll46print.gif" />
+    <None Include="oll\oll47print.gif" />
+    <None Include="oll\oll48print.gif" />
+    <None Include="oll\oll49print.gif" />
+    <None Include="oll\oll50print.gif" />
+    <None Include="oll\oll51print.gif" />
+    <None Include="oll\oll52print.gif" />
+    <None Include="oll\oll53print.gif" />
+    <None Include="oll\oll54print.gif" />
+    <None Include="oll\oll55print.gif" />
+    <None Include="oll\oll56print.gif" />
+    <None Include="oll\oll57print.gif" />
+    <None Include="pll\pll01.gif" />
+    <None Include="pll\pll02.gif" />
+    <None Include="pll\pll03.gif" />
+    <None Include="pll\pll04.gif" />
+    <None Include="pll\pll05.gif" />
+    <None Include="pll\pll06.gif" />
+    <None Include="pll\pll07.gif" />
+    <None Include="pll\pll08.gif" />
+    <None Include="pll\pll09.gif" />
+    <None Include="pll\pll10.gif" />
+    <None Include="pll\pll11.gif" />
+    <None Include="pll\pll12.gif" />
+    <None Include="pll\pll13.gif" />
+    <None Include="pll\pll14.gif" />
+    <None Include="pll\pll15.gif" />
+    <None Include="pll\pll16.gif" />
+    <None Include="pll\pll17.gif" />
+    <None Include="pll\pll18.gif" />
+    <None Include="pll\pll19.gif" />
+    <None Include="pll\pll20.gif" />
+    <None Include="pll\pll21.gif" />
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AssemblyInfo.cpp" />
+    <ClCompile Include="Cubing.cpp" />
+    <ClCompile Include="help.cpp" />
+    <ClCompile Include="ortega.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Form1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="help.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="ortega.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resX">
+      <DependentUpon>Form1.h</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="help.resx">
+      <DependentUpon>help.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ortega.resx">
+      <DependentUpon>ortega.h</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Icon.ico" />
+    <Image Include="oll\oll06print.gif" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
